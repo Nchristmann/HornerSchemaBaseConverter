@@ -31,7 +31,7 @@ public class Main {
             newNum = newNum * currentBase;
             newNum = newNum + changeCharToInt(numberstrToConvert.charAt(i));
             System.out.println(newNum);
-        } //End of for THIS IS THE HORNA SCHEMA
+        } //End of for THIS IS THE HORNER SCHEMA
         //return newNum; //this goes nowhere right now
     } //End Method Main
 } //End Class Main
