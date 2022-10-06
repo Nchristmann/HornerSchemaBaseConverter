@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa665a01-98ee-4a46-861e-b41f02d5ba2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,12 +82,20 @@
       <option name="project" value="LOCAL" />
       <updated>1664534971442</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added method changeIntToChar inorder to append the int as a char to the character object arrayList&#10;Added method changeToDecimal, seperates the last program into its own ,method, since to continue changing the base you need to first change to decimal&#10;Added division in main to change the number to the desired base.">
+      <created>1665053316821</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665053316821</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit&#10;Added Main&#10;Added Module changeCharToInt&#10;Added a FOR loop that applies the Horna Schema" />
     <MESSAGE value="changed a spelling error" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed a spelling error" />
+    <MESSAGE value="Added method changeIntToChar inorder to append the int as a char to the character object arrayList&#10;Added method changeToDecimal, seperates the last program into its own ,method, since to continue changing the base you need to first change to decimal&#10;Added division in main to change the number to the desired base." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added method changeIntToChar inorder to append the int as a char to the character object arrayList&#10;Added method changeToDecimal, seperates the last program into its own ,method, since to continue changing the base you need to first change to decimal&#10;Added division in main to change the number to the desired base." />
   </component>
 </project>

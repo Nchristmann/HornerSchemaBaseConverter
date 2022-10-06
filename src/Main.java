@@ -41,6 +41,7 @@ public class Main {
         int currentBase = sc.nextInt();
         //Should check that no number is used that is greater than the base - user error
         System.out.print("Enter the base you want the number to be: ");
+        //TODO create own method for the decimal to base conversion
         int baseConv = sc.nextInt();
         int quotient = changeToDecimal(numberstrToConvert, currentBase);
         int rest = 0;
